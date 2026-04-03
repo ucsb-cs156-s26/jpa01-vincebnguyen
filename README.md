@@ -1,7 +1,6 @@
-# STARTER-jpa01-vincebnguyen
+# jpa01-vincebnguyen
 
-Deployed at: [[(https://jpa01-vincent150.dokku-04.cs.ucsb.edu/)
-](https://jpa01-vincent150.dokku-04.cs.ucsb.edu/)](http://jpa01-vincebnguyen.dokku-04.cs.ucsb.edu/)
+Deployed at: http://jpa01-vincebnguyen.dokku-04.cs.ucsb.edu/
 
 # About this repo
 
