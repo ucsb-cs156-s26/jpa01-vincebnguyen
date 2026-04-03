@@ -1,6 +1,6 @@
 # jpa01-vincebnguyen
 
-http://jpa01-vincebnguyen.dokku-04.cs.ucsb.edu/
+https://jpa01-vincebnguyen.dokku-04.cs.ucsb.edu/
 
 # About this repo
 
