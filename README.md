@@ -1,6 +1,7 @@
 # jpa01-vincebnguyen
 
-https://jpa01-vincebnguyen.dokku-04.cs.ucsb.edu/
+Deployed at: https://jpa01-vincebnguyen.dokku-04.cs.ucsb.edu/
+
 
 # About this repo
 
